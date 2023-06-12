@@ -3,7 +3,7 @@ import json
 
 # Enter your GitHub credentials
 username = "ljodiceendicott"
-password = "Minivinny1552?"
+password = 
 
 # Enter the repository details
 owner = "ljodiceendicott"
