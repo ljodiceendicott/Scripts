@@ -11,7 +11,7 @@ repo = "CrowdWatch"
 
 headers = {
     "Content-Type": "application/json",
-    "Authorization": "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"
+    "Authorization": ""
 }
 # Enter the issue details
 issues = [
